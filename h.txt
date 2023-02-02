@@ -3,3 +3,8 @@ using namespace std;
 int main(){
 }
 return 0;
+#include <iosdtreame>
+using namespace std;
+int main(){
+}
+return 0;
